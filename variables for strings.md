@@ -1,8 +1,7 @@
-var game = "COD";
-alert("game");
+var total = 100;
+total = total + total;
+alert(total);
 
-var watch;
-watch = "gold watch";
+var price = 50
+price = 100
 
-var name = "joshua babicz";
-name = "joshua";
