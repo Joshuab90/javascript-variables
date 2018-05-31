@@ -1,0 +1,16 @@
+var popularNumber = 2 + 2;
+alert(2 + 2);
+
+var popularNumber = 12 - 24;
+var number = 3 * 12;
+var numberone = 12 / 4;
+
+var num = 10;
+var popNum = num + 200;
+
+var numtwo = 12;
+var anotherNum = 2;
+var evenNumber = numtwo + anotherNum;
+
+//whats left over after number is divided. If number is divided evenly, it returns 0
+var whatsLeftOver = 10 % 3
