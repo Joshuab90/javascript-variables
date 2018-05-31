@@ -1,0 +1,13 @@
+var x = 1;
+x++;
+alert(x);
+//The alert box shows 2//
+
+//Assign a number value to a variable.
+Increment the variable using minimal code while assigning its incremented value to a second variable. 
+Both variables wind up with the same value.
+Display the value of the second variable in an alert//
+var number = 1;
+var number2 = ++number;
+alert(number2);
+
